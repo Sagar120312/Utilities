@@ -13,7 +13,10 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CsvUtility\FilesUtility.csproj" />
+    <ProjectReference Include="..\DatabaseUtility\DatabaseUtility.csproj" />
+    <ProjectReference Include="..\PaypalUtility\PaypalUtility.csproj" />
     <ProjectReference Include="..\PdfUtility\PdfUtility.csproj" />
+    <ProjectReference Include="..\SingleSignOnUtility\SingleSignOnUtility.csproj" />
   </ItemGroup>
 
 </Project>

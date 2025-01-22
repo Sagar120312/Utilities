@@ -11,4 +11,8 @@
     <PackageReference Include="jsreport.Local" Version="3.8.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SearchUtility\ListSearchSortFilterUtility.csproj" />
+  </ItemGroup>
+
 </Project>
